@@ -73,15 +73,13 @@ Contains 4 CSV files:
 
 ## Dashboards
 
-<img width="1920" height="992" alt="Campaign Performance Dashboard" src="https://github.com/user-attachments/assets/ba66ee83-183b-475e-b95e-314ed1c4408a" />
-
-<img width="1920" height="987" alt="Customer Journey Dashboard" src="https://github.com/user-attachments/assets/e95ae185-82ff-462e-b458-8edb598b8014" />
-
 ### 1. Campaign Performance Overview  
 Includes:
 - ROAS by Channel (Horizontal Bar Chart)
 - Conversion Rate Over Time (Line Chart)
 - Revenue by Device & Location (Heatmap)
+
+<img width="1920" height="992" alt="Campaign Performance Dashboard" src="https://github.com/user-attachments/assets/ba66ee83-183b-475e-b95e-314ed1c4408a" />
 
 ### 2. Customer Journey and Segmentation  
 Includes:
@@ -89,6 +87,9 @@ Includes:
 - Customer Segments (Stacked Bar Chart)
 - Top Locations or Devices (Pie Chart)
 - Campaign Spend Efficiency (Tree Map)
+
+<img width="1920" height="987" alt="Customer Journey Dashboard" src="https://github.com/user-attachments/assets/e95ae185-82ff-462e-b458-8edb598b8014" />
+
 
 ## Key Insights
 
