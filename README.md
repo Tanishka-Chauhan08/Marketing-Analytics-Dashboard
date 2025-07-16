@@ -83,7 +83,7 @@ Includes:
 
 ### 2. Customer Journey and Segmentation  
 Includes:
-- Funnel Drop-off (Area/Funnel Chart)
+- Funnel Drop-off (Funnel Chart)
 - Customer Segments (Stacked Bar Chart)
 - Top Locations or Devices (Pie Chart)
 - Campaign Spend Efficiency (Tree Map)
